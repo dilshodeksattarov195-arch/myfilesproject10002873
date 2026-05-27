@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpalidate",
+        "uuid": 19320925,
+        "checksum": "n4rgsi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
